@@ -8,11 +8,12 @@
 }
 
 .slider{
-  width:100vw;
-  height: 200px;
+  width:1000px;
+  height: 100px;
   position: relative;
-  display: flex;
   box-shadow: 0 10px 20px -10px rgba(0,0,0,0.2);
+  display: flex;
+  overflow: hidden;
 }
 
 .slide_track{
@@ -23,7 +24,7 @@
 }
 
 .img{
-  height: 200px;
+  height: 100px;
   margin: 20px;
 }
 
