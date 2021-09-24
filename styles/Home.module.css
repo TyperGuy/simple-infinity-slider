@@ -17,7 +17,7 @@
 
 .slide_track{
  display: flex;
- width: calc(250px *30 );
+ width: calc(250px *15 );
  animation: scroll 40s linear infinite;
 }
 
